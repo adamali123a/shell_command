@@ -17,6 +17,8 @@ while True:
     elif (a=="cd"):
         print("\n\n{} ==> bo chona naw folder\n\n".format(a))
         
+    elif (a=="chmod777"):
+        print("\n\n{} ==> bo ezndan bo har filek\n\n".format(a))
     elif (a=="cd .."):
         print("\n\n{} ==> bo darchon la naw har folderyk\n\n".format(a))
         
